@@ -15,8 +15,8 @@ env:
   KERNEL_SOURCE : "https://github.com/Ssrml/android_kernel_zte_ums9620_p720_w205ds"
   KERNEL_BRANCH : "master"
 
-  CLANG_SOURCE : "https://github.com/Neutron-Toolchains/clang-build-catalogue/releases/download/10032024/neutron-clang-10032024.tar.zst"
-  CLANG_BRANCH : ""
+  CLANG_SOURCE : "https://github.com/kdrag0n/proton-clang.git"
+  CLANG_BRANCH : "master"
 
   GCC_GNU : false
   GCC_64_SOURCE : "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.git"
