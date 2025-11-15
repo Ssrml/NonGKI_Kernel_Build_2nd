@@ -29,8 +29,8 @@ env:
   DEFCONFIG_ORIGIN_IMAGE: "https://github.com/Ssrml/android_bootimg_zte_ums9620_p720_w205ds/raw/refs/heads/master/boot_b.img"
   DEFCONFIG_FROM_BOOT: true
 
-  KERNELSU_SOURCE : "https://raw.githubusercontent.com/tiann/KernelSU/refs/heads/main/kernel/setup.sh"
-  KERNELSU_BRANCH : "v0.9.5"
+  KERNELSU_SOURCE : "https://raw.githubusercontent.com/SukiSU-Ultra/SukiSU-Ultra/main/kernel/setup.sh"
+  KERNELSU_BRANCH : "nongki"
 
   KERNELSU_AUTO_GET : "false" # if u want easy setting kernelsu, u can true.
   KERNELSU_AUTO_FORK : "sukisu" # magic, rsuntk, next, wild, jingmatrix and sukisu
